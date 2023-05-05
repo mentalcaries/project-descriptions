@@ -1,4 +1,4 @@
-# [View this project live!](https://peaceful-woodland-39661.herokuapp.com/) 🎉
+# [View this project live!](https://dotcot.onrender.com) 🎉
 
 ### **DotCot** is an application designed to help investors connect with startups. Gone are the days of irrelevant startups in your inbox. Create a custom form and only get the information you want, nothing else.
 
